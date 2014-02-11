@@ -1,0 +1,5 @@
+simple wrapper to process ifstat and graph the data to a chart
+
+This is a basic network monitoring tool written in python utilizing ifstat
+
+It uses matplotlib in conjunction with ifstat to plot real network data
